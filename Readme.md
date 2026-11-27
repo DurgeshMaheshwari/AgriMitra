@@ -80,6 +80,6 @@ We welcome contributions! Follow these steps:
 
 ## 📩 Contact
 For any queries, collaboration, or feedback, reach out via:
-- 📧 **Email:** [Keshav Maheshwari](beastkeshavmaheshwari51@gmail.com)
-- 👨‍💻 **GitHub:** [Keshav Maheshwari](https://github.com/KeshavMaheshwari21)
+- 📧 **Email:** [Durgesh Soni Maheshwari](Dur2122soni@gmail.com)
+- 👨‍💻 **GitHub:** [Durgesh Soni Maheshwari](https://github.com/DurgeshMaheshwari)
 
